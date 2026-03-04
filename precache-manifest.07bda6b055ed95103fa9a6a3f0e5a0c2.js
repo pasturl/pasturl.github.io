@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c444169b9e99fc336fe67192a384eb00",
+    "revision": "f6ad9e95cbf2dbea8d4aa5f51bfde85b",
     "url": "/index.html"
   },
   {
-    "revision": "c1b2d2e13834dec54b58",
-    "url": "/static/css/main.b3e380ad.chunk.css"
+    "revision": "60c43631b91fa49d6a5e",
+    "url": "/static/css/main.b00d80a3.chunk.css"
   },
   {
-    "revision": "68b80da19d9be7a4a424",
-    "url": "/static/js/2.e95ee450.chunk.js"
+    "revision": "bd685e4c1a5ef8ab1f92",
+    "url": "/static/js/2.15ab66d1.chunk.js"
   },
   {
-    "revision": "c1b2d2e13834dec54b58",
-    "url": "/static/js/main.984a23f4.chunk.js"
+    "revision": "60c43631b91fa49d6a5e",
+    "url": "/static/js/main.0fab8216.chunk.js"
   },
   {
     "revision": "6455abdc6c8c43d8748e",
@@ -72,8 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.dcd6dee2.svg"
   },
   {
+    "revision": "4ba7cbc8d8590f9bf7e81e2299455bac",
+    "url": "/static/media/artiso.4ba7cbc8.svg"
+  },
+  {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "73555ecf29b56bdbfaaf87c0f9efec4d",
+    "url": "/static/media/certiprof_logo.73555ecf.svg"
+  },
+  {
+    "revision": "779719b0f4bafdf40b0857738767aa11",
+    "url": "/static/media/cesga_logo.779719b0.svg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -94,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "8b5594c08c785b4ac9d68e85dbb46401",
+    "url": "/static/media/datacamp_logo.8b5594c0.svg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
@@ -200,6 +216,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "ccd99cff466229929b5d8dac9fe6bd8e",
+    "url": "/static/media/grifols.ccd99cff.svg"
+  },
+  {
+    "revision": "30617e632328da7a9bd94673b4182116",
+    "url": "/static/media/harvard_logo.30617e63.svg"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/static/media/ibm_logo.d3fccbe1.png"
   },
@@ -218,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "686de666c254175d835535f44a4bd558",
+    "url": "/static/media/mongodb_logo.686de666.svg"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",

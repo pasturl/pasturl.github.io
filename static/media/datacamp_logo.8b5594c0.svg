@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#03EF62"/>
+  <text x="100" y="90" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#05192D">Data</text>
+  <text x="100" y="125" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#05192D">Camp</text>
+</svg>
